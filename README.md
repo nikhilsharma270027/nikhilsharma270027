@@ -1,12 +1,58 @@
+<header>
+  
 ![Header](./github-header-image.png)
 <!--
 **nikhilsharma270027/nikhilsharma270027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+- 🌱 I’m currently learning GO
+- 🔭 I’m currently working on Nextjs and GO
+
+  <table align="left">
+  <tr >
+    <th>
+      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
+      <a href="https://nikhil-sharma-portfolio.vercel.app/" />  My Portfolio  
+    </th> 
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
+  <a href="https://www.linkedin.com/in/nikhil-sharma-496680279/" />   LinkedIn
+    </th> 
+        
+     <th>
+       <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
+        <a href="https://leetcode.com/u/nikhilsharmaa/">LeetCode</a>
+    </th>
+     <th>
+       <img width="24" height="24" align="center" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>
+      <a href="https://x.com/NSharmaDev27" />   𝕏 (Twitter)
+    </th> 
+  </tr>
+  
+</table>
+</header>
+<br>
+<br>
+
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,express,nodejs,cpp,go)](https://skillicons.dev)<br>
+[![](https://skillicons.dev/icons?i=tailwind,react,nextjs,postman,redux)](https://skillicons.dev)<br>
+[![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prima)](https://skillicons.dev)<br>
+[![](https://skillicons.dev/icons?i=docker,firebase,git,bash,npm)](https://skillicons.dev)<br>
+[![](https://skillicons.dev/icons?i=netlify,vercel,discord,figma)](https://skillicons.dev)<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsharma270027&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  ![](https://komarev.com/ghpvc/?username=nikhilsharma270027&style=for-the-badge&color=orange)
+<br>
+<br>
+<div align="left" >
+
+<p align="left"  >&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikhilsharma270027&show_icons=true&theme=tokyonight&locale=en" alt="nikhil" /></p>
+  
+  
+</div>
