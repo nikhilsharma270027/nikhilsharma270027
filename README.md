@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning GO
-- 🔭 I’m currently working on Nextjs and GO
+- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on Nextjs and Python
 
   <table align="left">
   <tr >
